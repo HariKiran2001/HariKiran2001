@@ -11,9 +11,9 @@ I'm a passionate student currently pursuing my Master's degree in Applied Artifi
 
 ## Projects
 Here are some projects I've worked on:
-- [House Price Prediction]
-- [Vehicle Identification using DL
-- [Chatbot]
+- House Price Prediction
+- Vehicle Identification using DL
+- Chatbot...E.T.C
 
 ## Skills
 - Python
